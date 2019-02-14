@@ -1,0 +1,8 @@
+/*
+	다른 클래스에 있는 상수를 사용해보기위한 클래스
+*/
+class UseConstant{
+	public static void main(String[] args) {
+		System.out.println(Constant.MAX_SCORE);
+	}//main
+}//class

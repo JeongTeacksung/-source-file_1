@@ -1,0 +1,16 @@
+package day1204;
+
+public class WorkImpl implements Work{
+
+	@Override
+	public String getMenu() {
+		return "±Ëπ‰";
+	}
+
+	@Override
+	public String getRestarant() {
+		return "±Ë√µ";
+	}
+
+
+}
